@@ -1,5 +1,5 @@
 <?php
-namespace sebastianroming\Wordpress\Plugins\DWD;
+namespace sebastianroming\Wordpress\Plugins\Unwetter;
 
 class Main {
 	
@@ -13,7 +13,7 @@ class Main {
 	// ---------------------------------------------
 	protected function _initHooks() {
 		
-		add_action( 'widgets_init', function(){ register_widget( 'sebastianroming\Wordpress\Plugins\DWD\Widgets\Default_Widget' ); });
+		add_action( 'widgets_init', function(){ register_widget( 'sebastianroming\Wordpress\Plugins\Unwetter\Widgets\Default_Widget' ); });
 		
 	}
 	

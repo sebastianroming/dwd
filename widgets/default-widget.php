@@ -1,6 +1,6 @@
 <?php
-namespace sebastianroming\Wordpress\Plugins\DWD\Widgets;
-use sebastianroming\Wordpress\Plugins\DWD\Config;
+namespace sebastianroming\Wordpress\Plugins\Unwetter\Widgets;
+use sebastianroming\Wordpress\Plugins\Unwetter\Config;
 use WP_Widget;
 
 class Default_Widget extends WP_Widget {
