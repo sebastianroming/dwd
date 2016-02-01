@@ -1,5 +1,5 @@
 <?php
-namespace sebastianroming\Wordpress\Plugins\DWD;
+namespace sebastianroming\Wordpress\Plugins\Unwetter;
 
 class Config {
 	

@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: DWD
+Plugin Name: Unwetter
 Plugin URI: http://www.sebastianroming.de/wordpress-plugins/
 Description: Zeigt aktuelle Wetterwarnungen des Deutschen Wetterdienstes (DWD)
 Version: 1.0.0
@@ -36,6 +36,6 @@ if (version_compare(phpversion(), '5.3.0') < 0) {
     );
 }
 
-require_once dirname( __FILE__ ) . '/dwd-config.php';
+require_once dirname( __FILE__ ) . '/unwetter-config.php';
 require_once dirname( __FILE__ ) . '/widgets/default-widget.php';
-require_once dirname( __FILE__ ) . '/dwd-main.php';
+require_once dirname( __FILE__ ) . '/unwetter-main.php';
