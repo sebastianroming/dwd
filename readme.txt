@@ -24,10 +24,13 @@ Siehe [GitHub Issues](https://github.com/sebastianroming/dwd/issues)
 
 == Changelog ==
 
-= 1.0 = 
+= 1.0.1 = 
+* Name geändert zu Unwetter
+
+= 1.0.0 = 
 * Erste Version des Plugins
 
 == Upgrade Notice ==
 
-= 1.0 = 
+= 1.0.0 = 
 * Initial Plugin

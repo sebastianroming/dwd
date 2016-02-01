@@ -3,7 +3,7 @@
 Plugin Name: Unwetter
 Plugin URI: http://www.sebastianroming.de/wordpress-plugins/
 Description: Zeigt aktuelle Wetterwarnungen des Deutschen Wetterdienstes (DWD)
-Version: 1.0.0
+Version: 1.0.1
 Author: Sebastian Roming
 Author URI: http://www.sebastianroming.de
 License: GPL2
